@@ -1,0 +1,16 @@
+localparam signed [15:0] H0 = 16'shFF3A; // h[0] = -198
+localparam signed [15:0] H1 = 16'shFD5C; // h[1] = -676
+localparam signed [15:0] H2 = 16'shFBCA; // h[2] = -1078
+localparam signed [15:0] H3 = 16'shFC8E; // h[3] = -882
+localparam signed [15:0] H4 = 16'sh0244; // h[4] = 580
+localparam signed [15:0] H5 = 16'sh0CC2; // h[5] = 3266
+localparam signed [15:0] H6 = 16'sh18C2; // h[6] = 6338
+localparam signed [15:0] H7 = 16'sh20C9; // h[7] = 8393
+localparam signed [15:0] H8 = 16'sh20C9; // h[8] = 8393
+localparam signed [15:0] H9 = 16'sh18C2; // h[9] = 6338
+localparam signed [15:0] H10 = 16'sh0CC2; // h[10] = 3266
+localparam signed [15:0] H11 = 16'sh0244; // h[11] = 580
+localparam signed [15:0] H12 = 16'shFC8E; // h[12] = -882
+localparam signed [15:0] H13 = 16'shFBCA; // h[13] = -1078
+localparam signed [15:0] H14 = 16'shFD5C; // h[14] = -676
+localparam signed [15:0] H15 = 16'shFF3A; // h[15] = -198
